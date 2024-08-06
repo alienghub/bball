@@ -1,0 +1,3 @@
+This level shows how the textures look. These textures are intended for "Terrain" texture.
+The PDF file contains a short guide on the use of textures on the "Terrain"
+If you have any questions or suggestions, our contact email is: raevenstudio@gmail.com

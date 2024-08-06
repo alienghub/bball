@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 92593dc3a94cafc41ab49c9ad49adfed
+timeCreated: 1538056507
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Boots_2_Brown
+    100002: Bow_1
+    100004: Clothes_Male_1_CV1
+    100006: Face
+    100008: //RootNode
+    100010: Hand_1_White_Left
+    100012: Hand_1_White_Right
+    100014: Male_Face_1_White
+    100016: Male_Hair_1
+    100018: Mesh1
+    100020: Mesh1 1
+    100022: Mesh1 2
+    100024: Mesh2
+    100026: Quiver_1
+    100028: Rig_Bow
+    100030: Rig_Bow_Rope
+    100032: Rig_Chest
+    100034: Rig_Collarbone_Left
+    100036: Rig_Collarbone_Right
+    100038: Rig_Foot_Left
+    100040: Rig_Foot_Right
+    100042: Rig_Hand_Left
+    100044: Rig_Hand_Right
+    100046: Rig_Head
+    100048: Rig_Lower_Arm_Left
+    100050: Rig_Lower_Arm_Right
+    100052: Rig_Lower_Leg_Left
+    100054: Rig_Lower_Leg_Right
+    100056: Rig_Neck
+    100058: Rig_Pelvis
+    100060: Rig_Spine
+    100062: Rig_Upper_Arm_Left
+    100064: Rig_Upper_Arm_Right
+    100066: Rig_Upper_Leg_Left
+    100068: Rig_Upper_Leg_Right
+    100070: Sword_1
+    400000: Boots_2_Brown
+    400002: Bow_1
+    400004: Clothes_Male_1_CV1
+    400006: Face
+    400008: //RootNode
+    400010: Hand_1_White_Left
+    400012: Hand_1_White_Right
+    400014: Male_Face_1_White
+    400016: Male_Hair_1
+    400018: Mesh1
+    400020: Mesh1 1
+    400022: Mesh1 2
+    400024: Mesh2
+    400026: Quiver_1
+    400028: Rig_Bow
+    400030: Rig_Bow_Rope
+    400032: Rig_Chest
+    400034: Rig_Collarbone_Left
+    400036: Rig_Collarbone_Right
+    400038: Rig_Foot_Left
+    400040: Rig_Foot_Right
+    400042: Rig_Hand_Left
+    400044: Rig_Hand_Right
+    400046: Rig_Head
+    400048: Rig_Lower_Arm_Left
+    400050: Rig_Lower_Arm_Right
+    400052: Rig_Lower_Leg_Left
+    400054: Rig_Lower_Leg_Right
+    400056: Rig_Neck
+    400058: Rig_Pelvis
+    400060: Rig_Spine
+    400062: Rig_Upper_Arm_Left
+    400064: Rig_Upper_Arm_Right
+    400066: Rig_Upper_Leg_Left
+    400068: Rig_Upper_Leg_Right
+    400070: Sword_1
+    2300000: Male_Hair_1
+    2300002: Mesh1
+    2300004: Mesh1 1
+    2300006: Mesh1 2
+    2300008: Mesh2
+    2300010: Quiver_1
+    2300012: Sword_1
+    3300000: Male_Hair_1
+    3300002: Mesh1
+    3300004: Mesh1 1
+    3300006: Mesh1 2
+    3300008: Mesh2
+    3300010: Quiver_1
+    3300012: Sword_1
+    4300000: Clothes_Male_1_CV1
+    4300002: Boots_2_Brown
+    4300004: Face
+    4300006: Hand_1_White_Right
+    4300008: Hand_1_White_Left
+    4300010: Male_Face_1_White
+    4300012: Mesh2
+    4300014: Mesh1
+    4300016: Male_Hair_1
+    4300018: Sword_1
+    4300020: Mesh1
+    4300022: Mesh1
+    4300024: Bow_1
+    4300026: Quiver_1
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Boots_2_Brown
+    13700002: Bow_1
+    13700004: Clothes_Male_1_CV1
+    13700006: Face
+    13700008: Hand_1_White_Left
+    13700010: Hand_1_White_Right
+    13700012: Male_Face_1_White
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

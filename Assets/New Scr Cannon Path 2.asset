@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf5b3e3cf7240f468c3966c4c3c7e28, type: 3}
+  m_Name: New Scr Cannon Path 2
+  m_EditorClassIdentifier: 
+  pathEnding: 0
+  pause: 0
+  rotationTrue: 1
+  rotationSpeed: 20
+  rotationDegrees: 90
+  rotationDirection: 0
+  rotationEnding: 2
+  movementTrue: 0
+  movementSpeed: 0
+  movementMatchingMultiplier: 0
+  movementCoordinates: {x: 0, y: 0}
+  reverseCoordinates: {x: 0, y: 0}
+  movementStyle: 0
+  movementEnding: 0

@@ -1,0 +1,233 @@
+fileFormatVersion: 2
+guid: 3cb618cdb67910143958b0e45478d862
+timeCreated: 1541180617
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Face
+    100004: Foot_Left
+    100006: Foot_Right
+    100008: Hair
+    100010: Hand_Left
+    100012: Hand_Right
+    100014: //RootNode
+    100016: Neck
+    100018: Pants_Left
+    100020: Pants_Right
+    100022: Rig_Chest
+    100024: Rig_Collarbone_Left
+    100026: Rig_Collarbone_Right
+    100028: Rig_Foot_Left
+    100030: Rig_Foot_Right
+    100032: Rig_Hand_Left
+    100034: Rig_Hand_Right
+    100036: Rig_Head
+    100038: Rig_Lower_Arm_Left
+    100040: Rig_Lower_Arm_Right
+    100042: Rig_Lower_Leg_Left
+    100044: Rig_Lower_Leg_Right
+    100046: Rig_Neck
+    100048: Rig_Pelvis
+    100050: Rig_Spine
+    100052: Rig_Upper_Arm_Left
+    100054: Rig_Upper_Arm_Right
+    100056: Rig_Upper_Leg_Left
+    100058: Rig_Upper_Leg_Right
+    400000: Body
+    400002: Face
+    400004: Foot_Left
+    400006: Foot_Right
+    400008: Hair
+    400010: Hand_Left
+    400012: Hand_Right
+    400014: //RootNode
+    400016: Neck
+    400018: Pants_Left
+    400020: Pants_Right
+    400022: Rig_Chest
+    400024: Rig_Collarbone_Left
+    400026: Rig_Collarbone_Right
+    400028: Rig_Foot_Left
+    400030: Rig_Foot_Right
+    400032: Rig_Hand_Left
+    400034: Rig_Hand_Right
+    400036: Rig_Head
+    400038: Rig_Lower_Arm_Left
+    400040: Rig_Lower_Arm_Right
+    400042: Rig_Lower_Leg_Left
+    400044: Rig_Lower_Leg_Right
+    400046: Rig_Neck
+    400048: Rig_Pelvis
+    400050: Rig_Spine
+    400052: Rig_Upper_Arm_Left
+    400054: Rig_Upper_Arm_Right
+    400056: Rig_Upper_Leg_Left
+    400058: Rig_Upper_Leg_Right
+    4300000: Hair
+    4300002: Hand_Left
+    4300004: Hand_Right
+    4300006: Neck
+    4300008: Body
+    4300010: Foot_Left
+    4300012: Pants_Left
+    4300014: Pants_Right
+    4300016: Foot_Right
+    4300018: Face
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body
+    13700002: Face
+    13700004: Foot_Left
+    13700006: Foot_Right
+    13700008: Hair
+    13700010: Hand_Left
+    13700012: Hand_Right
+    13700014: Neck
+    13700016: Pants_Left
+    13700018: Pants_Right
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: 0
+    animationPositionError: 0
+    animationScaleError: 1
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Face
+        weight: 1
+      - path: Foot_Left
+        weight: 1
+      - path: Foot_Right
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hand_Left
+        weight: 1
+      - path: Hand_Right
+        weight: 1
+      - path: Neck
+        weight: 1
+      - path: Pants_Left
+        weight: 1
+      - path: Pants_Right
+        weight: 1
+      - path: Rig_Pelvis
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Collarbone_Left
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Collarbone_Left/Rig_Upper_Arm_Left
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Collarbone_Left/Rig_Upper_Arm_Left/Rig_Lower_Arm_Left
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Collarbone_Left/Rig_Upper_Arm_Left/Rig_Lower_Arm_Left/Rig_Hand_Left
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Collarbone_Right
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Collarbone_Right/Rig_Upper_Arm_Right
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Collarbone_Right/Rig_Upper_Arm_Right/Rig_Lower_Arm_Right
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Collarbone_Right/Rig_Upper_Arm_Right/Rig_Lower_Arm_Right/Rig_Hand_Right
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Neck
+        weight: 1
+      - path: Rig_Pelvis/Rig_Spine/Rig_Chest/Rig_Neck/Rig_Head
+        weight: 1
+      - path: Rig_Pelvis/Rig_Upper_Leg_Left
+        weight: 1
+      - path: Rig_Pelvis/Rig_Upper_Leg_Left/Rig_Lower_Leg_Left
+        weight: 1
+      - path: Rig_Pelvis/Rig_Upper_Leg_Left/Rig_Lower_Leg_Left/Rig_Foot_Left
+        weight: 1
+      - path: Rig_Pelvis/Rig_Upper_Leg_Right
+        weight: 1
+      - path: Rig_Pelvis/Rig_Upper_Leg_Right/Rig_Lower_Leg_Right
+        weight: 1
+      - path: Rig_Pelvis/Rig_Upper_Leg_Right/Rig_Lower_Leg_Right/Rig_Foot_Right
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: d1b3756d8aebd074f88514d7cc3cf6d3
+timeCreated: 1538030053
+licenseType: Store
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Boots_4_Black
+    100002: Clothes_Male_2_CV1_White
+    100004: Face
+    100006: Hand_1_White_Left
+    100008: Hand_1_White_Right
+    100010: //RootNode
+    100012: Rig_Chest
+    100014: Rig_Collarbone_Left
+    100016: Rig_Collarbone_Right
+    100018: Rig_Foot_Left
+    100020: Rig_Foot_Right
+    100022: Rig_Hand_Left
+    100024: Rig_Hand_Right
+    100026: Rig_Head
+    100028: Rig_Lower_Arm_Left
+    100030: Rig_Lower_Arm_Right
+    100032: Rig_Lower_Leg_Left
+    100034: Rig_Lower_Leg_Right
+    100036: Rig_Neck
+    100038: Rig_Pelvis
+    100040: Rig_Spine
+    100042: Rig_Upper_Arm_Left
+    100044: Rig_Upper_Arm_Right
+    100046: Rig_Upper_Leg_Left
+    100048: Rig_Upper_Leg_Right
+    400000: Boots_4_Black
+    400002: Clothes_Male_2_CV1_White
+    400004: Face
+    400006: Hand_1_White_Left
+    400008: Hand_1_White_Right
+    400010: //RootNode
+    400012: Rig_Chest
+    400014: Rig_Collarbone_Left
+    400016: Rig_Collarbone_Right
+    400018: Rig_Foot_Left
+    400020: Rig_Foot_Right
+    400022: Rig_Hand_Left
+    400024: Rig_Hand_Right
+    400026: Rig_Head
+    400028: Rig_Lower_Arm_Left
+    400030: Rig_Lower_Arm_Right
+    400032: Rig_Lower_Leg_Left
+    400034: Rig_Lower_Leg_Right
+    400036: Rig_Neck
+    400038: Rig_Pelvis
+    400040: Rig_Spine
+    400042: Rig_Upper_Arm_Left
+    400044: Rig_Upper_Arm_Right
+    400046: Rig_Upper_Leg_Left
+    400048: Rig_Upper_Leg_Right
+    4300000: Clothes_Male_2_CV1_White
+    4300002: Face
+    4300004: Hand_1_White_Left
+    4300006: Hand_1_White_Right
+    4300008: Boots_4_Black
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Boots_4_Black
+    13700002: Clothes_Male_2_CV1_White
+    13700004: Face
+    13700006: Hand_1_White_Left
+    13700008: Hand_1_White_Right
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
